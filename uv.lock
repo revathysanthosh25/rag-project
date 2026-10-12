@@ -3471,6 +3471,7 @@ dependencies = [
     { name = "jupyter" },
     { name = "llama-index" },
     { name = "openai" },
+    { name = "python-dotenv" },
     { name = "ragas" },
     { name = "streamlit" },
 ]
@@ -3481,6 +3482,7 @@ requires-dist = [
     { name = "jupyter", specifier = ">=1.1.1" },
     { name = "llama-index", specifier = ">=0.14.25" },
     { name = "openai", specifier = ">=2.54.0" },
+    { name = "python-dotenv", specifier = ">=1.2.4" },
     { name = "ragas", specifier = ">=0.4.3" },
     { name = "streamlit", specifier = ">=1.65.0" },
 ]

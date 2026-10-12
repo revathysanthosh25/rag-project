@@ -9,6 +9,7 @@ dependencies = [
     "jupyter>=1.1.1",
     "llama-index>=0.14.25",
     "openai>=2.54.0",
+    "python-dotenv>=1.2.4",
     "ragas>=0.4.3",
     "streamlit>=1.65.0",
 ]
