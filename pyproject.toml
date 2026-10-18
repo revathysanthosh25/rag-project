@@ -6,9 +6,13 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "chromadb>=1.5.9",
+    "ddgs>=9.16.0",
+    "duckduckgo-search>=8.1.1",
     "groq>=1.7.0",
     "jupyter>=1.1.1",
     "langchain-community==0.3.27",
+    "langchain-openai>=0.3.35",
+    "langgraph>=1.0.1",
     "llama-index>=0.14.25",
     "llama-index-core>=0.14.25",
     "llama-index-embeddings-huggingface>=0.8.0",
